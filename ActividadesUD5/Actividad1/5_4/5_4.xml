@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tablaBiblioteca4.xsl" type="text/xsl"?>
+<libreria>
+    <libro>
+        <titulo>Physics-based animation</titulo>
+        <autor>Kenny Erleben</autor>
+        <editor>Charles River Media</editor> 
+        <isbn> 978-1584503804</isbn>
+        <precio>50.06</precio>
+        <numPaginas>150</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Principios de seguridad informática para usuarios</titulo>
+        <autor>Carlos Garre</autor>
+        <editor>Dykinson</editor>
+        <isbn>978-84-9849-998-8</isbn> 
+        <precio>13.00</precio>
+        <numPaginas>437</numPaginas>
+    </libro>
+    <libro> 
+        <titulo>Ejercicios complementarios de lógica digital</titulo>
+        <autor>Alberto Sánchez</autor>
+        <editor>Dykinson</editor> 
+        <isbn>978-84-9849-703-8</isbn>
+        <precio>12.00</precio>
+        <numPaginas>259</numPaginas>
+    </libro>
+    <libro> 
+        <titulo>Volando sobre el asfalto</titulo>
+        <autor>Antonio Lobato</autor>
+        <editor>Planeta</editor> 
+        <isbn>9788408138198</isbn>
+        <precio>09.50</precio>
+        <numPaginas>213</numPaginas>
+    </libro>
+    <libro> 
+        <titulo>Sueños de acero y neón</titulo>
+        <autor>Jordi Wild</autor>
+        <editor>Martínez Roca</editor> 
+        <isbn>9788427042353</isbn>
+        <precio>10.00</precio>
+        <numPaginas>416</numPaginas>
+    </libro>
+    <libro> 
+        <titulo>La sombra del viento</titulo>
+        <autor>Carlos Ruiz Zafón</autor>
+        <editor>PlanetaDeLibros</editor> 
+        <isbn>9788427678953</isbn>
+        <precio>10.50</precio>
+        <numPaginas>275</numPaginas>
+    </libro>
+    <libro> 
+        <titulo>El prisionero del cielo</titulo>
+        <autor>Carlos Ruiz Zafón</autor>
+        <editor>PlanetaDeLibros</editor> 
+        <isbn>9788427321789</isbn>
+        <precio>60.50</precio>
+        <numPaginas>528</numPaginas>
+    </libro>
+</libreria>
