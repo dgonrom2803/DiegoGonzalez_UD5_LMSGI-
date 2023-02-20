@@ -7,7 +7,7 @@
         <editor>Charles River Media</editor> 
         <isbn> 978-1584503804</isbn>
         <precio>50.06</precio>
-        <numPaginas>150</numPaginas>
+        <numPaginas>125</numPaginas>
     </libro>
     <libro>
         <titulo>Principios de seguridad informática para usuarios</titulo>
