@@ -12,11 +12,20 @@
 <th>Sello</th>
 <th>Año Publicación</th>
 </tr>
-<xsl:for-each select="lista/cd">
+<xsl:for-each select="lista/cd[sello='Death Row Records']">
 <tr>
 <td><xsl:value-of select="albumTitulo"/></td>
 <td><xsl:value-of select="artista"/></td>
-<td><xsl:value-of select="canciones"/></td>
+<td>
+<ul>
+<xsl:for-each select="canciones/cancion">
+<li>
+<xsl:value-of select="."/>
+<xsl:value-of select="@duracion"/>
+</li>
+</xsl:for-each>
+</ul>
+</td>
 <td><xsl:value-of select="sello"/></td>
 <td><xsl:value-of select="annoPublicacion"/></td>
 </tr>

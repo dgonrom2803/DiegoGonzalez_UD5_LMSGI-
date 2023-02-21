@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="cd_p1.xsl" type="text/xsl"?>
+<lista>
+    <cd>
+        <albumTitulo>Music to be murdered by</albumTitulo>
+        <artista>Eminem</artista>
+        <canciones>
+            <cancion>   
+                <titulo>Never love again</titulo>
+                <duracion>(02:58)</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Darkness</titulo>
+                <duracion>(05:37)</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Godzilla</titulo>
+                <duracion>(03:31)</duracion>
+            </cancion>
+        </canciones>
+        <sello>Interscope Records</sello>
+        <annoPublicacion>2020</annoPublicacion>
+    </cd>
+
+    <cd>
+        <albumTitulo>All Eyez On Me</albumTitulo>
+        <artista>2Pac</artista>
+        <canciones>
+            <cancion>
+                <titulo>Only God Can Judge Me</titulo>
+                <duracion>(04:57)</duracion>
+            </cancion>
+            <cancion>
+                <titulo>All Eyez On Me</titulo>
+                <duracion>(05:08)</duracion>
+            </cancion>
+            <cancion>
+                <titulo>California Love (Remix)</titulo>
+                <duracion>(06:26)</duracion>
+            </cancion>
+        </canciones>
+        <sello>Death Row Records</sello>
+        <annoPublicacion>1996</annoPublicacion>
+    </cd>
+
+    <cd>
+        <albumTitulo>Arquitectura del aire de la calle</albumTitulo>
+        <artista>Los Delinqüentes</artista>
+        <canciones>
+            <cancion>
+                <titulo>Gato Callejero</titulo> 
+                <duracion>(04:06)</duracion>
+            </cancion>
+            <cancion>
+                <titulo>La niña de la palmera</titulo>
+                <duracion>(03:24)</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Caminito del almendro</titulo>
+                <duracion>(03:42)</duracion>
+            </cancion>
+        </canciones>
+        <sello>Parlophone Spain</sello>
+        <annoPublicacion>2003</annoPublicacion>
+    </cd>
+
+    <cd>
+        <albumTitulo>Trench</albumTitulo>
+        <artista>Twenty One Pilots</artista>
+        <canciones>
+            <cancion>
+                <titulo>My Blood</titulo>
+                <duracion>(03:49)</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Leave the city</titulo>
+                <duracion>(04:41)</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Cut My Lip</titulo>
+                <duracion>(04:43)</duracion>
+            </cancion>
+        </canciones>
+        <sello>Fueled By Ramen</sello>
+        <annoPublicacion>2018</annoPublicacion>
+    </cd>
+
+    <cd>
+        <albumTitulo>Sin Miedo a Vivir</albumTitulo>
+        <artista>SFDK</artista>
+        <canciones>
+            <cancion>
+                <titulo>Sin Miedo a Vivir</titulo>
+                <duracion>(03:13)</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Bajo el Mismo Sol</titulo>
+                <duracion>(03:46)</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Todo Lo Que Importa</titulo>
+                <duracion>(04:08)</duracion>
+            </cancion>
+        </canciones>
+        <sello>BOA Música</sello>
+        <annoPublicacion>2014</annoPublicacion>
+    </cd>
+
+    <cd>
+        <albumTitulo>Tirititando</albumTitulo>
+        <artista>Fernando Costa</artista>
+        <canciones>
+            <cancion>
+                <titulo>Ya No</titulo>
+                <duracion>(02:56)</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Shorty</titulo>
+                <duracion>(03:03)</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Dame Una Luz</titulo>
+                <duracion>(03:16)</duracion>
+            </cancion>
+        </canciones>
+        <sello>FERNANDOCOSTA</sello>
+        <annoPublicacion>2022</annoPublicacion>
+    </cd>
+
+    <cd>
+        <albumTitulo>Curiosa La Cara de Tu Padre</albumTitulo>
+        <artista>Melendi</artista>
+        <canciones>
+            <cancion>
+                <titulo>Curiosa La Cara de Tu Padre</titulo>
+                <duracion>(03:31)</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Un Violinista En Tu Tejado</titulo>
+                <duracion>(03:42)</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Piratas del Bar Caribe</titulo>
+                <duracion>(04:04)</duracion>
+            </cancion>
+        </canciones>
+        <sello>EMI Music Spain S.A</sello>
+        <annoPublicacion>2008</annoPublicacion>
+    </cd>
+
+    <cd>
+        <albumTitulo>El Último Tour del Mundo</albumTitulo>
+        <artista>Bad Bunny</artista>
+        <canciones>
+            <cancion>
+                <titulo>120</titulo>
+                <duracion>(02:32)</duracion>
+            </cancion>
+            <cancion>
+                <titulo>La Droga</titulo>
+                <duracion>(02:42)</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Te Deseo Lo Mejor</titulo>
+                <duracion>(02:20)</duracion>
+            </cancion>
+        </canciones>
+        <sello>Rimas Entertainment</sello>
+        <annoPublicacion>2020</annoPublicacion>
+    </cd>
+
+    <cd>
+        <albumTitulo>Entergalactic</albumTitulo>
+        <artista>Kid Cudi</artista>
+        <canciones>
+            <cancion>
+                <titulo>Can't Shake Her</titulo>
+                <duracion>(02:57)</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Angel</titulo>
+                <duracion>(02:27)</duracion>
+            </cancion>
+            <cancion>
+                <titulo>New Mode</titulo>
+                <duracion>(03:57)</duracion>
+            </cancion>
+        </canciones>
+        <sello>Wicked Awesome</sello>
+        <annoPublicacion>2022</annoPublicacion>
+    </cd>
+
+    <cd>
+        <albumTitulo>El Círculo</albumTitulo>
+        <artista>Kase.O</artista>
+        <canciones>
+            <cancion>
+                <titulo>Repartiendo Arte</titulo>
+                <duracion>(04:44)</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Pavos Reales</titulo>
+                <duracion>(04:32)</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Yemen</titulo>
+                <duracion>(04:24)</duracion>
+            </cancion>
+        </canciones>
+        <sello>EL PAN DE ALIYAH</sello>
+        <annoPublicacion>2016</annoPublicacion>
+    </cd>
+</lista>
