@@ -5,18 +5,9 @@
         <albumTitulo>Music to be murdered by</albumTitulo>
         <artista>Eminem</artista>
         <canciones>
-            <cancion>   
-                <titulo>Never love again</titulo>
-                <duracion>(02:58)</duracion>
-            </cancion>
-            <cancion>
-                <titulo>Darkness</titulo>
-                <duracion>(05:37)</duracion>
-            </cancion>
-            <cancion>
-                <titulo>Godzilla</titulo>
-                <duracion>(03:31)</duracion>
-            </cancion>
+            <cancion tiempo="178">Never love again | (02:58)</cancion>
+            <cancion tiempo="337">Darkness | (05:37)</cancion>
+            <cancion tiempo="211">Godzilla | (03:31)</cancion>
         </canciones>
         <sello>Interscope Records</sello>
         <annoPublicacion>2020</annoPublicacion>
@@ -26,18 +17,9 @@
         <albumTitulo>All Eyez On Me</albumTitulo>
         <artista>2Pac</artista>
         <canciones>
-            <cancion>
-                <titulo>Only God Can Judge Me</titulo>
-                <duracion>(04:57)</duracion>
-            </cancion>
-            <cancion>
-                <titulo>All Eyez On Me</titulo>
-                <duracion>(05:08)</duracion>
-            </cancion>
-            <cancion>
-                <titulo>California Love (Remix)</titulo>
-                <duracion>(06:26)</duracion>
-            </cancion>
+            <cancion tiempo="297">Only God Can Judge Me | (04:57)</cancion>
+            <cancion tiempo="308">All Eyez On Me | (05:08)</cancion>
+            <cancion tiempo="386">California Love (Remix) | (06:26)</cancion>
         </canciones>
         <sello>Death Row Records</sello>
         <annoPublicacion>1996</annoPublicacion>
@@ -47,18 +29,9 @@
         <albumTitulo>Arquitectura del aire de la calle</albumTitulo>
         <artista>Los Delinqüentes</artista>
         <canciones>
-            <cancion>
-                <titulo>Gato Callejero</titulo> 
-                <duracion>(04:06)</duracion>
-            </cancion>
-            <cancion>
-                <titulo>La niña de la palmera</titulo>
-                <duracion>(03:24)</duracion>
-            </cancion>
-            <cancion>
-                <titulo>Caminito del almendro</titulo>
-                <duracion>(03:42)</duracion>
-            </cancion>
+            <cancion tiempo ="246">Gato Callejero | (04:06)</cancion>
+            <cancion tiempo="204">La niña de la palmera | (03:24)</cancion>
+            <cancion tiempo="222">Caminito del almendro | (03:42)</cancion>
         </canciones>
         <sello>Parlophone Spain</sello>
         <annoPublicacion>2003</annoPublicacion>
@@ -68,18 +41,9 @@
         <albumTitulo>Trench</albumTitulo>
         <artista>Twenty One Pilots</artista>
         <canciones>
-            <cancion>
-                <titulo>My Blood</titulo>
-                <duracion>(03:49)</duracion>
-            </cancion>
-            <cancion>
-                <titulo>Leave the city</titulo>
-                <duracion>(04:41)</duracion>
-            </cancion>
-            <cancion>
-                <titulo>Cut My Lip</titulo>
-                <duracion>(04:43)</duracion>
-            </cancion>
+            <cancion tiempo="229">My Blood | (03:49)</cancion>
+            <cancion tiempo="281">Leave the city | (04:41)</cancion>
+            <cancion tiempo ="283">Cut My Lip | (04:43)</cancion>
         </canciones>
         <sello>Fueled By Ramen</sello>
         <annoPublicacion>2018</annoPublicacion>
@@ -89,18 +53,9 @@
         <albumTitulo>Sin Miedo a Vivir</albumTitulo>
         <artista>SFDK</artista>
         <canciones>
-            <cancion>
-                <titulo>Sin Miedo a Vivir</titulo>
-                <duracion>(03:13)</duracion>
-            </cancion>
-            <cancion>
-                <titulo>Bajo el Mismo Sol</titulo>
-                <duracion>(03:46)</duracion>
-            </cancion>
-            <cancion>
-                <titulo>Todo Lo Que Importa</titulo>
-                <duracion>(04:08)</duracion>
-            </cancion>
+            <cancion tiempo="193">Sin Miedo a Vivir | (03:13)</cancion>
+            <cancion tiempo="226">Bajo el Mismo Sol | (03:46)</cancion>
+            <cancion tiempo="248">Todo Lo Que Importa | (04:08)</cancion>
         </canciones>
         <sello>BOA Música</sello>
         <annoPublicacion>2014</annoPublicacion>
@@ -110,18 +65,9 @@
         <albumTitulo>Tirititando</albumTitulo>
         <artista>Fernando Costa</artista>
         <canciones>
-            <cancion>
-                <titulo>Ya No</titulo>
-                <duracion>(02:56)</duracion>
-            </cancion>
-            <cancion>
-                <titulo>Shorty</titulo>
-                <duracion>(03:03)</duracion>
-            </cancion>
-            <cancion>
-                <titulo>Dame Una Luz</titulo>
-                <duracion>(03:16)</duracion>
-            </cancion>
+            <cancion tiempo="176">Ya No | (02:56)</cancion>
+            <cancion tiempo="183">Shorty | (03:03)</cancion>
+            <cancion tiempo="196">Dame Una Luz | (03:16)</cancion>
         </canciones>
         <sello>FERNANDOCOSTA</sello>
         <annoPublicacion>2022</annoPublicacion>
@@ -131,18 +77,9 @@
         <albumTitulo>Curiosa La Cara de Tu Padre</albumTitulo>
         <artista>Melendi</artista>
         <canciones>
-            <cancion>
-                <titulo>Curiosa La Cara de Tu Padre</titulo>
-                <duracion>(03:31)</duracion>
-            </cancion>
-            <cancion>
-                <titulo>Un Violinista En Tu Tejado</titulo>
-                <duracion>(03:42)</duracion>
-            </cancion>
-            <cancion>
-                <titulo>Piratas del Bar Caribe</titulo>
-                <duracion>(04:04)</duracion>
-            </cancion>
+            <cancion tiempo="211">Curiosa La Cara de Tu Padre | (03:31)</cancion>
+            <cancion tiempo="222">Un Violinista En Tu Tejado | (03:42)</cancion>
+            <cancion tiempo="244">Piratas del Bar Caribe | (04:04)</cancion>
         </canciones>
         <sello>EMI Music Spain S.A</sello>
         <annoPublicacion>2008</annoPublicacion>
@@ -152,18 +89,9 @@
         <albumTitulo>El Último Tour del Mundo</albumTitulo>
         <artista>Bad Bunny</artista>
         <canciones>
-            <cancion>
-                <titulo>120</titulo>
-                <duracion>(02:32)</duracion>
-            </cancion>
-            <cancion>
-                <titulo>La Droga</titulo>
-                <duracion>(02:42)</duracion>
-            </cancion>
-            <cancion>
-                <titulo>Te Deseo Lo Mejor</titulo>
-                <duracion>(02:20)</duracion>
-            </cancion>
+            <cancion tiempo="152">120 | (02:32)</cancion>
+            <cancion tiempo="162">La Droga | (02:42)</cancion>
+            <cancion tiempo="140">Te Deseo Lo Mejor | (02:20)</cancion>
         </canciones>
         <sello>Rimas Entertainment</sello>
         <annoPublicacion>2020</annoPublicacion>
@@ -173,18 +101,9 @@
         <albumTitulo>Entergalactic</albumTitulo>
         <artista>Kid Cudi</artista>
         <canciones>
-            <cancion>
-                <titulo>Can't Shake Her</titulo>
-                <duracion>(02:57)</duracion>
-            </cancion>
-            <cancion>
-                <titulo>Angel</titulo>
-                <duracion>(02:27)</duracion>
-            </cancion>
-            <cancion>
-                <titulo>New Mode</titulo>
-                <duracion>(03:57)</duracion>
-            </cancion>
+            <cancion tiempo="177">Can't Shake Her | (02:57)</cancion>
+            <cancion tiempo="147">Angel | (02:27)</cancion>
+            <cancion tiempo="237">New Mode | (03:57)</cancion>
         </canciones>
         <sello>Wicked Awesome</sello>
         <annoPublicacion>2022</annoPublicacion>
@@ -194,18 +113,9 @@
         <albumTitulo>El Círculo</albumTitulo>
         <artista>Kase.O</artista>
         <canciones>
-            <cancion>
-                <titulo>Repartiendo Arte</titulo>
-                <duracion>(04:44)</duracion>
-            </cancion>
-            <cancion>
-                <titulo>Pavos Reales</titulo>
-                <duracion>(04:32)</duracion>
-            </cancion>
-            <cancion>
-                <titulo>Yemen</titulo>
-                <duracion>(04:24)</duracion>
-            </cancion>
+            <cancion tiempo="284">Repartiendo Arte | (04:44)</cancion>
+            <cancion tiempo="272">Pavos Reales | (04:32)</cancion>
+            <cancion tiempo="264">Yemen | (04:24)</cancion>
         </canciones>
         <sello>EL PAN DE ALIYAH</sello>
         <annoPublicacion>2016</annoPublicacion>

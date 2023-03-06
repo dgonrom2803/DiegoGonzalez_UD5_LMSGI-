@@ -18,13 +18,10 @@
 <td><xsl:value-of select="artista"/></td>
 <td>
 <ul>
-<xsl:for-each select="canciones/cancion">
-<xsl:if test="@duracion &lt; ">
+<xsl:for-each select="canciones/cancion[@tiempo &lt;'180']">
 <li>
 <xsl:value-of select="."/>
-<xsl:value-of select="@duracion"/>
 </li>
-</xsl:if>
 </xsl:for-each>
 </ul>
 </td>
