@@ -2,6 +2,8 @@
 <xsl:output method="text"/>
 <xsl:template match="/">
 <xsl:for-each select="root/record">
+<xsl:value-of select="title"/>
+<xsl:text>&#xA;</xsl:text>
 </xsl:for-each>
 </xsl:template>
 </xsl:stylesheet>
